@@ -10,9 +10,9 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.get('/', (req, res) => {
-  console.log("Backend service running")
+  console.log("Backend service running");
 });
 
 app.listen(PORT, (req, res) => {
-  console.log(`App is listening on port: ${PORT}`)
+  console.log(`App is listening on port: ${PORT}`);
 });
