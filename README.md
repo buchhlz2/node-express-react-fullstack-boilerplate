@@ -1,4 +1,4 @@
-# Dashboard -- a desktop clone with a web-focused twist
+# Node, Express, & React Boilerplate
 
 ## Available Scripts
 
